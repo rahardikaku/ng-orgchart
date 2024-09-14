@@ -1,7 +1,7 @@
 {
   "name": "@anorangga/ng-orgchart",
   "description": "organization chart component based angular 12.2.0",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "repository": {
     "type": "git",
     "url": "https://github.com/rahardikaku/ng-orgchart.git"
