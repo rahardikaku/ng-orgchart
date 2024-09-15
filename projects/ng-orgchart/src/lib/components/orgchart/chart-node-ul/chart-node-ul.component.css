@@ -278,6 +278,10 @@
     background-color: #28a745!important;
 }
 
+.orgchart .node .title.root {
+    background-color: #41464b!important;
+}
+
 .orgchart.b2t .node .title {
   transform: rotate(-180deg);
   transform-origin: center bottom;
